@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Restaurant.xcodeproj">
+      location = "self:/Users/jakubklucovsky/Desktop/Xcode Projects/Restaurant/TicTacToe.xcodeproj">
    </FileRef>
 </Workspace>

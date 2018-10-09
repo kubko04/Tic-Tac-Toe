@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		434C1439216A1B7200ED0921 /* Restaurant */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Restaurant; sourceTree = BUILT_PRODUCTS_DIR; };
+		434C1439216A1B7200ED0921 /* TicTacToe */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TicTacToe; sourceTree = BUILT_PRODUCTS_DIR; };
 		434C143C216A1B7200ED0921 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		434C1430216A1B7200ED0921 = {
 			isa = PBXGroup;
 			children = (
-				434C143B216A1B7200ED0921 /* Restaurant */,
+				434C143B216A1B7200ED0921 /* TicTacToe */,
 				434C143A216A1B7200ED0921 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +49,25 @@
 		434C143A216A1B7200ED0921 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				434C1439216A1B7200ED0921 /* Restaurant */,
+				434C1439216A1B7200ED0921 /* TicTacToe */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		434C143B216A1B7200ED0921 /* Restaurant */ = {
+		434C143B216A1B7200ED0921 /* TicTacToe */ = {
 			isa = PBXGroup;
 			children = (
 				434C143C216A1B7200ED0921 /* main.swift */,
 			);
-			path = Restaurant;
+			path = TicTacToe;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		434C1438216A1B7200ED0921 /* Restaurant */ = {
+		434C1438216A1B7200ED0921 /* TicTacToe */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 434C1440216A1B7200ED0921 /* Build configuration list for PBXNativeTarget "Restaurant" */;
+			buildConfigurationList = 434C1440216A1B7200ED0921 /* Build configuration list for PBXNativeTarget "TicTacToe" */;
 			buildPhases = (
 				434C1435216A1B7200ED0921 /* Sources */,
 				434C1436216A1B7200ED0921 /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = Restaurant;
+			name = TicTacToe;
 			productName = Restaurant;
-			productReference = 434C1439216A1B7200ED0921 /* Restaurant */;
+			productReference = 434C1439216A1B7200ED0921 /* TicTacToe */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -97,7 +97,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 434C1434216A1B7200ED0921 /* Build configuration list for PBXProject "Restaurant" */;
+			buildConfigurationList = 434C1434216A1B7200ED0921 /* Build configuration list for PBXProject "TicTacToe" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -109,7 +109,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				434C1438216A1B7200ED0921 /* Restaurant */,
+				434C1438216A1B7200ED0921 /* TicTacToe */,
 			);
 		};
 /* End PBXProject section */
@@ -262,7 +262,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		434C1434216A1B7200ED0921 /* Build configuration list for PBXProject "Restaurant" */ = {
+		434C1434216A1B7200ED0921 /* Build configuration list for PBXProject "TicTacToe" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				434C143E216A1B7200ED0921 /* Debug */,
@@ -271,7 +271,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		434C1440216A1B7200ED0921 /* Build configuration list for PBXNativeTarget "Restaurant" */ = {
+		434C1440216A1B7200ED0921 /* Build configuration list for PBXNativeTarget "TicTacToe" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				434C1441216A1B7200ED0921 /* Debug */,
